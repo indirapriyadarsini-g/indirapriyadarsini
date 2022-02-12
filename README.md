@@ -1,4 +1,5 @@
 # [***Indirapriyadarsini***](https://github.com/indirapriyadarsini-g)
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 ## Student with CS majors who focuses on front-end dev 
 ### (actually confused on which track to take on)
